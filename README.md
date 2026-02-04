@@ -12,4 +12,4 @@ The project started with a raw dataset of *10,000 sales records* that contained 
 ## 3. The Result
 The final dashboard provides a clean, interactive view of *$89,059.00* in total revenue. It identifies *Salad* as the top-selling category at *$19,105.00* and allows stakeholders to filter data by payment type or store location instantly.
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard_preview.png)
